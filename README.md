@@ -1,2 +1,2 @@
 # SideMenuNavigationExtension
-SideMenuNavigationExtension including react-native navigation
+SideMenuNavigationExtension including react-native navigation.
